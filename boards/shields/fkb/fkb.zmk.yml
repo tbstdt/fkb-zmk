@@ -1,0 +1,8 @@
+file_format: "1"
+id: fkb
+name: FKB
+type: shield
+requires:
+  - nice_nano
+features:
+  - keys
